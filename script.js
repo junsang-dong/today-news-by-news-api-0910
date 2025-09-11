@@ -1,5 +1,5 @@
 // News API 설정
-const API_KEY = 'ccf46f8cd362481b833eb29777cbdab0'; // 여기에 실제 API 키를 입력하세요
+const API_KEY = '여기에 실제 API 키를 입력'; // 여기에 실제 API 키를 입력하세요
 
 // 더 안정적인 CORS 프록시들
 const CORS_PROXIES = [
